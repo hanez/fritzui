@@ -1,3 +1,10 @@
+.idea
+.run
+__pycache__
+config.json
+log/*.log*
+fritzui.iml
+
 # ---> Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
